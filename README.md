@@ -47,7 +47,7 @@ Install firebase tools
 npm install -g firebase-tools
 ```
 
-Deploy the project to yout firebase projhect (make sure to have billing enabled for that project). copy the backend/functions/index.js into a different place
+Deploy the project to yout firebase project (make sure to have billing enabled for that project). copy the backend/functions/index.js into a different place
 ```sh
 cd backend
 firebase login
@@ -63,7 +63,7 @@ firebase deploy
 
 ## 📱 Usage
 
-To Start expo all you have to do is run this line
+To Start expo, run this line:
 ```sh
 expo start
 ```
@@ -84,5 +84,6 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 * Alternate Email: smsaurabhmudgal@gmail.com
 * Location: Singapore
 
-
+<br>
+Credits: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
 Give a ⭐️ if this project helped you! :)
