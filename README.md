@@ -86,4 +86,5 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 
 <br>
 Credits: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+<br>
 Give a ⭐️ if this project helped you! :)
