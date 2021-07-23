@@ -85,8 +85,6 @@ Like what you see? I am available for freelance and full-time work. Let's chat!
 * Location: Singapore
 
 <br>
-Credits: 
-[SimCoder]: https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog
-[I'm an inline-style link](https://www.google.com)
+Credits: SimCoder
 <br>
 Give a ⭐️ if this project helped you! :)
