@@ -12,8 +12,8 @@ This project is made using react native, firebase firestore, firebase storage, r
 ## ➕ Features
 
 Currently the project has the following features:
-  * expo boilerplate
-  * Auth system 
+  * Expo boilerplate
+  * Authentication system 
   * Post Images w/ descriptions
     * Take pictures directly in app
     * Choose from gallery
@@ -21,9 +21,8 @@ Currently the project has the following features:
   * Follow/Unfollow users
   * Feed in chronological order
   * Search Users
-  * Comment Posts
+  * Posts' comments
   * Comment Likes
-  * Redesign
   
 <br>
 
@@ -31,7 +30,7 @@ Currently the project has the following features:
 
 First you need to install Nodejs and npm, this is different depending on the OS you are running so it is easier to check the node [page](https://nodejs.org/en/download/)
 
-Install [expo](https://expo.io/learn), if it fails run you might need to run this with sudo
+Install [expo](https://expo.io/learn), if it fails run you might need to run:
 ```sh
 npm install expo-cli --global
 ```
